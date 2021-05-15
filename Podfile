@@ -16,7 +16,7 @@ def testing_pods
   pod 'HTMLString', '~> 4.0'
   pod 'NYTPhotoViewer/AnimatedGifSupport', '~> 2.0.0'
   pod 'SDWebImage/GIF', '~> 4.0.0'
-  pod 'SnapKit', '~> 4.2'
+  pod 'SnapKit', '~> 5.0'
   pod 'TUSafariActivity', '~> 1.0'
   pod 'SwiftLint'
   pod 'Fabric'
