@@ -15,7 +15,7 @@ def testing_pods
   pod 'AlamofireNetworkActivityIndicator', '~> 2.3'
   pod 'HTMLString', '~> 4.0'
   pod 'NYTPhotoViewer/AnimatedGifSupport', '~> 2.0.0'
-  pod 'SDWebImage/GIF', '~> 4.0.0'
+  pod 'SDWebImage/GIF', '~> 5.18.0'
   pod 'SnapKit', '~> 4.2'
   pod 'TUSafariActivity', '~> 1.0'
   pod 'SwiftLint'
